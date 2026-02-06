@@ -880,7 +880,7 @@ class UcpApp {
       }
     });
 
-    this.setJson('json-profiles', { 
+    this.setJson('json-profiles', {
       ucp: {
         version: UcpData.version,
         capabilities,
